@@ -14,7 +14,7 @@
 - linux
 - yoga
 ## social
-- my site:
+- site:
 - hackthebox profile: [link](https://app.hackthebox.com/profile/1184465)
 - simplex: [link](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPtsqghzQKU83kYTlQ1VKg996dW4Cw4x_bvpKmiv8uns%3D%40smp18.simplex.im%2Fnhx6euKL9-Mgsd20GFnb7JDLAct8I5kv%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAnTz-4_XEn_EGcFFVV8YzRt75wjG2AE_ipRycE4KGBxM%253D%26srv%3Dlyqpnwbs2zqfr45jqkncwpywpbtq7jrhxnib5qddtr6npjyezuwd3nqd.onion)
 - matrix/element: @maradentro:matrix.org
