@@ -5,6 +5,7 @@
 
 ## Activity
 - Web development
+- System administration
 - Pentesting
 - OSINT
 ## Languages
